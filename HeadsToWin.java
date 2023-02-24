@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 
-public class DiceRollerCycles {
+public class HeadsToWin {
     public static void main(String[] args) {
         try{
             PrintWriter pw = new PrintWriter(new File("myfile2.csv"));
