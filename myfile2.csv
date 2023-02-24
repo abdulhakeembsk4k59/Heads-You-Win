@@ -1,0 +1,56 @@
+
+
+Cycle : 1
+,Player 1,Player 2,
+Round 1: ,Head,Head,
+Round 2: ,Tails,Tails,
+Round 3: ,Head,Tails,
+Round 4: ,Tails,Head,
+Round 5: ,Tails,Head,
+Round 6: ,Head,Head,
+Round 7: ,Head,Tails,
+Round 8: ,Tails,Head,
+Round 9: ,Tails,Head,
+Round 10: ,Tails,Head,
+
+
+
+
+
+
+Cycle : 2
+,Player 1,Player 2,
+Round 1: ,Tails,Tails,
+Round 2: ,Head,Tails,
+Round 3: ,Tails,Tails,
+Round 4: ,Head,Tails,
+Round 5: ,Tails,Tails,
+Round 6: ,Tails,Head,
+Round 7: ,Head,Tails,
+Round 8: ,Tails,Head,
+Round 9: ,Head,Tails,
+Round 10: ,Tails,Head,
+
+
+
+
+
+
+Cycle : 3
+,Player 1,Player 2,
+Round 1: ,Head,Tails,
+Round 2: ,Tails,Head,
+Round 3: ,Tails,Tails,
+Round 4: ,Head,Head,
+Round 5: ,Tails,Head,
+Round 6: ,Head,Tails,
+Round 7: ,Tails,Head,
+Round 8: ,Tails,Tails,
+Round 9: ,Head,Tails,
+Round 10: ,Head,Tails,
+
+
+
+
+,13,14,
+Player 2 Won the Match
